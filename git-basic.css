@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    color:white;
+}
+div{
+    font-size: 22px;
+    font-weight:bold;
+}
+
+.ball{
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    
+    margin: 0 auto
+}
